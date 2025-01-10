@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e3c224ae.css",
+    "main.js": "/portfolio/static/js/main.181fc4b2.js",
+    "static/js/453.9b06fe62.chunk.js": "/portfolio/static/js/453.9b06fe62.chunk.js",
+    "static/media/mealdrive.png": "/portfolio/static/media/mealdrive.fb0523f93baa5a0ed92d.png",
+    "static/media/eventbizz.png": "/portfolio/static/media/eventbizz.9c58c54adfb9c0128ba6.png",
+    "static/media/sociopedia.png": "/portfolio/static/media/sociopedia.6c5fc0b81c8a7f11d8aa.png",
+    "static/media/front.webp": "/portfolio/static/media/front.ef709a3debe6c48a6ec7.webp",
+    "static/media/codingpro.png": "/portfolio/static/media/codingpro.3b74d1cf0b9108627252.png",
+    "static/media/codingboy.webp": "/portfolio/static/media/codingboy.625913fe68f593a0b380.webp",
+    "static/media/bookstore.png": "/portfolio/static/media/bookstore.749fe98b910abb19e50e.png",
+    "static/media/travisco.jpg": "/portfolio/static/media/travisco.adfb170eab7277c68bc8.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.e3c224ae.css.map": "/portfolio/static/css/main.e3c224ae.css.map",
+    "main.181fc4b2.js.map": "/portfolio/static/js/main.181fc4b2.js.map",
+    "453.9b06fe62.chunk.js.map": "/portfolio/static/js/453.9b06fe62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c224ae.css",
+    "static/js/main.181fc4b2.js"
+  ]
+}
