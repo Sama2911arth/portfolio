@@ -45,7 +45,7 @@ export default function FirstPage() {
                             alt="Desktop Computer"
                             className="w-full rounded-full animate-pulse"
                         />
-                        <p className="text-center text-white text-sm mt-2">According to ChatGPT, this is how my workspace looks like</p>
+                        <p className="text-center text-white text-sm mt-2">According to ChatGPT, this is how my workspace looks like!</p>
                     </div>
 
                     {/* Right Column - Content */}
@@ -84,7 +84,7 @@ export default function FirstPage() {
                             </div>
                             <div className="text-center mt-8">
                                 <a
-                                    href="/path/to/your/resume.pdf"
+                                    href="https://drive.google.com/file/d/1GgQKsb1opDLSM8zABMZek_UKoKwmDp4u/view?usp=drive_link"
                                     download
                                     className="inline-block bg-teal-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-teal-600 transition duration-300"
                                 >

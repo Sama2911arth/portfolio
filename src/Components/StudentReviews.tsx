@@ -73,7 +73,7 @@ export default function AboutMe() {
                                 Hi, I'm Samarth Shukla, a passionate Full Stack Developer and Mobile App Developer. I specialize in building responsive web applications using the MERN stack and designing mobile apps with amazing user interfaces using React Native.
                             </p>
                             <p className="text-gray-400 text-lg">
-                                With over 50+ cities, 80+ modules, 10K+ students, and 100+ institutes, I have a proven track record of delivering high-quality projects that meet the needs of my clients. I am always eager to learn new technologies and take on new challenges.
+                                I have a proven track record of delivering high-quality projects that meet the needs of the hour. I am always eager to learn new technologies and take on new challenges.
                             </p>
                             <p className="text-gray-400 text-lg">
                                 When I'm not coding, you can find me exploring new places, reading tech blogs, or spending time with my family and friends. Let's connect and create something amazing together!
